@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6210B491E210A91005448C9"
-               BuildableName = "Calculator.app"
-               BlueprintName = "Calculator"
-               ReferencedContainer = "container:Calculator.xcodeproj">
+               BlueprintIdentifier = "7B0AC7B51AAEF90000885D4A"
+               BuildableName = "Pinterest.app"
+               BlueprintName = "Pinterest"
+               ReferencedContainer = "container:Pinterest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6210B491E210A91005448C9"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "7B0AC7B51AAEF90000885D4A"
+            BuildableName = "Pinterest.app"
+            BlueprintName = "Pinterest"
+            ReferencedContainer = "container:Pinterest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6210B491E210A91005448C9"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "7B0AC7B51AAEF90000885D4A"
+            BuildableName = "Pinterest.app"
+            BlueprintName = "Pinterest"
+            ReferencedContainer = "container:Pinterest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6210B491E210A91005448C9"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "7B0AC7B51AAEF90000885D4A"
+            BuildableName = "Pinterest.app"
+            BlueprintName = "Pinterest"
+            ReferencedContainer = "container:Pinterest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
